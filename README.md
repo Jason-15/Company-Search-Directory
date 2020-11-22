@@ -1,6 +1,5 @@
 # SPFX-Company-Search-Directory
 
-
 This is a Smart Search Directory that has been developed using React.ts, Node.js and Sharepoint Framework. This implementation will work on all Micrososft apps and can be deployed on any Micrososft Application. Can be extended using Microsoft Azure for deployment.
 
 Features include: Pulling employee details and information, while displaying in an interactive User Interface. Pulling office details and information, while displaying in an interactive User Interface.
